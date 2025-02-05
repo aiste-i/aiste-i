@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Aiste (Ice Tea)</h1>
 <h3 align="center">Driven person learning to become a backend developer</h3>
 
-- 🔭 I’m currently working on **Java e-commerce app**
-
 - 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **aisteivana@gmail.com**
